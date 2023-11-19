@@ -1,4 +1,4 @@
-module github.com/HimbeerserverDE/multiserver/multiserver_converter
+module github.com/HimbeerserverDE/multiserver_converter
 
 go 1.16
 
