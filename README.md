@@ -1,3 +1,8 @@
+# DEPRECATED
+This repository is part of the initial [multiserver](https://github.com/HimbeerserverDE/multiserver) project
+and should not be used. Its successor is the [mt-auth-convert](https://github.com/HimbeerserverDE/mt-multiserver-proxy/blob/main/doc/auth_backends.md#mt-auth-convert) tool
+of the [mt-multiserver-proxy](https://github.com/HimbeerserverDE/mt-multiserver-proxy) project.
+
 # multiserver_converter
 MT to multiserver auth database converter
 
